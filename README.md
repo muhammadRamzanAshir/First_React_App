@@ -4,15 +4,14 @@ This project is a fully dynamic landing page built with React (Frontend) and Dja
 ![image](https://github.com/user-attachments/assets/3f5b3332-bd66-4637-af84-fd763d194eb2)
 🔹 Features:
 
-✅ Dynamic Logo – Update from Django Admin
-✅ Customizable Navigation Bar – Manage menu items from Django
-✅ Editable Hero Section – Change heading, subtitle, and buttons dynamically
-✅ Theme Customization – Modify button colors via Django
-✅ Dynamic Icons – Change available platform icons (Amazon, Flipkart, etc.)
-🛠️ Tech Stack:
+✅ Dynamic Logo – Update from **Django Admin**  
+✅ Customizable Navigation Bar – Manage menu items from **Django**  
+✅ Editable Hero Section – Change heading, subtitle, and buttons dynamically  
+✅ Theme Customization – Modify button colors via **Django**  
+✅ Dynamic Icons – Change available platform icons (Amazon, Flipkart, etc.)  
 
-    Frontend: React, Vite
+🛠️ **Tech Stack:**  
 
-    Backend: Django, Django REST Framework (DRF)
-
-    Database: SQLite / PostgreSQL
+- **Frontend:** React, Vite  
+- **Backend:** Django, Django REST Framework (DRF)  
+- **Database:** SQLite / PostgreSQL  
